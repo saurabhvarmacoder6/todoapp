@@ -28,7 +28,7 @@ The layout adapts to different screen sizes using media queries.
 
 ## Live Demo
 
-https://js-todo-application2.netlify.app/
+https://js-todo-application2.netlify.app
 
 ##  Author
 
